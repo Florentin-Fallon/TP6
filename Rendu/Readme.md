@@ -102,3 +102,47 @@ Voici les fichiers ou le code pour la mesure et disponible :
 [web_sync_multiple.py](web_sync_multiple.py)
 
 [web_async_multiple.py](web_async_multiple.py)
+
+# II. Chat room
+# 1. Intro
+# 2. Première version
+# 🌞 chat_server_ii_2.py
+
+Voici le fichier pour le serveur :
+
+[chat_server_ii_2.py](chat_server_ii_2.py)
+
+# 🌞 chat_client_ii_2.py
+
+Voici le fichier du client :
+
+[chat_client_ii_2.py](chat_client_ii_2.py)
+
+# 3. Client asynchrone
+# 🌞 chat_client_ii_3.py
+
+
+
+# 🌞 chat_server_ii_3.py
+
+
+
+# 4. Un chat fonctionnel
+# 🌞 chat_server_ii_4.py
+
+
+
+# 5. Gérer des pseudos
+# 🌞 chat_client_ii_5.py
+
+
+
+# 🌞 chat_server_ii_5.py
+
+
+
+# 6. Déconnexion
+# 🌞 chat_server_ii_6.py et chat_client_ii_6.py
+
+
+
