@@ -135,19 +135,44 @@ Voici le fichier pour le serveur :
 # 4. Un chat fonctionnel
 # 🌞 chat_server_ii_4.py
 
+Voici le fichier pour l'exercice :
+
+[Click ici ;)](chat_server_ii_4.p)
 
 
 # 5. Gérer des pseudos
 # 🌞 chat_client_ii_5.py
 
-
+Voici le fichier pour le coté client qui m'as un peu beaucoup enquiquiner :| :
+[Ici](chat_client_ii_5.py)
 
 # 🌞 chat_server_ii_5.py
 
+Voici le fichier pour l'amélioration coté serveur :
 
+[Click here !](chat_server_ii_5.py)
 
 # 6. Déconnexion
 # 🌞 chat_server_ii_6.py et chat_client_ii_6.py
 
+Voici le fichier pour le serveur et le client
 
+Coté Serveur : [Le Serveur](chat_server_ii_6.py)
+Coté Client : [Le Client](chat_client_ii_6.py)
+Seul bémole, j'ai réussi coté client quand il ce déconnecte sa s'affiche sur le serveur :
+
+```shell
+florentinfallon@MacBook-Pro-de-Florentin TP6 % python3 chat_server_ii_5.py
+Flo a dit : Flo|salut ça va ?
+Flo  a quitté la chatroom
+```
+
+Mais coté client quand le serveur s'éteind rien ne s'affiche :
+
+```shell
+florentinfallon@MacBook-Pro-de-Florentin TP6 % python3 chat_client_ii_5.py
+Choisi ton pseudo: flo
+Entre ton message : salut 
+Entre ton message : 
+```
 
